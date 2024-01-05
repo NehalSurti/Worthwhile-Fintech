@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.196fc880.css",
+    "main.js": "/static/js/main.d7f18ed3.js",
+    "static/media/Worthwhile_new_Video.mp4": "/static/media/Worthwhile_new_Video.993a4f301cc765ff4836.mp4",
+    "static/media/Forex.jpg": "/static/media/Forex.9b3474b55486d62abbbd.jpg",
+    "static/media/Stock.jpg": "/static/media/Stock.87f283e6e81c45a1229a.jpg",
+    "static/media/Bond.jpg": "/static/media/Bond.aa24a34ff627cdca47a2.jpg",
+    "static/media/Property.jpg": "/static/media/Property.a5d38745b8443c2e4b79.jpg",
+    "static/media/logo.png": "/static/media/logo.8ead2ea3256ac3a36aa1.png",
+    "static/media/logo280.png": "/static/media/logo280.409c4b7bd2ce6fe031fa.png",
+    "index.html": "/index.html",
+    "main.196fc880.css.map": "/static/css/main.196fc880.css.map",
+    "main.d7f18ed3.js.map": "/static/js/main.d7f18ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196fc880.css",
+    "static/js/main.d7f18ed3.js"
+  ]
+}
